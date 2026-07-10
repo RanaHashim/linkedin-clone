@@ -64,9 +64,9 @@ A React-based LinkedIn-style social app built as a front-end practice project. I
 
 ## Screenshots
 
-![Login screen preview](screenshots/login-preview.svg)
+![Login screen preview](screenshots/login.JPG)
 
-![Feed and widgets preview](screenshots/feed-preview.svg)
+![Feed and widgets preview](screenshots/feed_preview.JPG)
 
 ## Notes
 
